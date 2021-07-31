@@ -1,0 +1,11 @@
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.csprojAssemblyReference.cache
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.AssemblyInfoInputs.cache
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.AssemblyInfo.cs
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\bin\Debug\netcoreapp2.1\Exercise05.deps.json
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\bin\Debug\netcoreapp2.1\Exercise05.runtimeconfig.json
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\bin\Debug\netcoreapp2.1\Exercise05.runtimeconfig.dev.json
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\bin\Debug\netcoreapp2.1\Exercise05.dll
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\bin\Debug\netcoreapp2.1\Exercise05.pdb
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.dll
+C:\Users\default.LAPTOP-JH4HG8JO\source\repos\Exercise05\Exercise05\obj\Debug\netcoreapp2.1\Exercise05.pdb

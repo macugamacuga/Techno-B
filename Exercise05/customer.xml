@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Customer>
+  <Customer>
+    <name>Bob Smith</name>
+   
+    <creditcard>1234-5678-9012-3456</creditcard>
+    <password>Pa$$w0rd</password>
+  </Customer>
+</Customer>
